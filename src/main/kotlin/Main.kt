@@ -87,6 +87,10 @@ fun main() {
     val blabala1: String = ""
     val blabala2: String = ""
 
+    val bl: Int = 0
+    val bl1: Int = 0
+    val bl2: Int = 0
+
     val paiyment: PaymentOption = PaymentOption.values().random()
     println(paiyment.commission)
 
