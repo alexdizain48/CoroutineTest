@@ -82,6 +82,9 @@ enum class PaymentOption(val commission: BigDecimal) {
 }
 
 fun main() {
+
+    val blabala: String = ""
+
     val paiyment: PaymentOption = PaymentOption.values().random()
     println(paiyment.commission)
 
