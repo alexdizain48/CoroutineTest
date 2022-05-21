@@ -1,0 +1,1 @@
+open class Loot(val value: Int)
