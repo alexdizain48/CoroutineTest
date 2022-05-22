@@ -1,4 +1,4 @@
 data class Test (
     val id: Int = 0,
-    val name: String = ""
+    val name: String = "Hello"
 )
