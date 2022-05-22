@@ -91,9 +91,9 @@ fun main() {
     val bl1: Int = 0
     val bl2: Int = 0
 
-    val dbl: Double = 0.3
-    val dbl1: Double = 0.4
-    val dbl2: Double = 0.5
+    val dbl: Double = 0.33
+    val dbl1: Double = 0.44
+    val dbl2: Double = 0.55
 
     val paiyment: PaymentOption = PaymentOption.values().random()
     println(paiyment.commission)
